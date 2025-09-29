@@ -1,0 +1,9 @@
+[project]
+title = "md-medoid-extraction"
+version = "0.0.1"
+requires-python = ">=3.10"
+dependencies = ["MDAnalysis"]
+
+[project.scripts]
+# (none needed for this test)
+
